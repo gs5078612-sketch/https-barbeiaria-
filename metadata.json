@@ -1,0 +1,6 @@
+{
+  "name": "Império Barber - Barbearia Premium",
+  "description": "Site profissional e moderno para a barbearia premium Império Barber com agendamento online e painel administrativo demonstrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
